@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\Engine\Engine.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\Graphics.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\Input.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\InputGamePad.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\InputKeyboard.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\InputMouse.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\Sound.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\Texture.Manager.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Engine\Window.cpp">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Main.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\RuleBaseAI.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\StateBaseAI.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Item.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Run.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ItemManager.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Collision.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\Common\Size.h">
+      <Filter>ソースファイル\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Common\Vec.h">
+      <Filter>ソースファイル\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\Engine.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\EngineConstant.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\Graphics.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\Input.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\InputGamePad.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\InputKeyboard.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\InputMouse.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\Sound.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\TextureManager.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Engine\Window.h">
+      <Filter>ソースファイル\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\RuleBaseAI.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\StateBaseAI.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Item.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Run.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ItemManager.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Collision.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ソースファイル">
+      <UniqueIdentifier>{5ff5d23b-01e2-48fa-bb11-6df0ba820705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\Common">
+      <UniqueIdentifier>{a0564acc-f7bf-4e08-868b-36867d991f22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\Engine">
+      <UniqueIdentifier>{001c92b9-f1d0-4a37-ac60-c553840c7f45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
